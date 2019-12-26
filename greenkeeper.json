@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "javascript/node/selenium-webdriver/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
